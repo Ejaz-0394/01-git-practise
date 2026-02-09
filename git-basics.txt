@@ -2,4 +2,5 @@ Git is a version control system.
 It helps track changes over time.
 Branches allow isolated development.
 Git is widely used in collaborative teams.
+Git enables multiple developers to work together safely.
 
