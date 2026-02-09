@@ -3,4 +3,5 @@ It helps track changes over time.
 Branches allow isolated development.
 Git is widely used in collaborative teams.
 Git enables multiple developers to work together safely.
+Conflicts are resolved manually by developers.
 
