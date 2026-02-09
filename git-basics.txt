@@ -6,4 +6,5 @@ Git enables multiple developers to work together safely.
 Conflicts are resolved manually by developers.
 Merge preserves full branch history.
 Rebase creates a cleaner history.
+This comment is for checking : GIT REVERT
 
